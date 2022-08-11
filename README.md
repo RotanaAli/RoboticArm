@@ -74,6 +74,6 @@ roslaunch robot_pkg check_motors.launch
 
 [picture 2]
 
-RIVz download is complete and now you can custumize the Robotic Arm to whatever you like, it's base_joint, shoulder, wrist and more.
+RIVz download is complete and now you can customize the Robotic Arm to whatever you like, it's base_joint, elbow, shoulder, wrist and more.
 
 -----------------------------------------------------------------
